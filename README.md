@@ -2,11 +2,11 @@
 
 # 💫 About Me:
 I am a Backend Developer passionate about building robust, scalable web applications and exploring DevOps. I thrive on solving complex logic puzzles and transforming architectural ideas into efficient, functional code.
+
 🔭 Current Focus: Engineering high-performance APIs and real-time data systems.
 🌱 Learning: Deepening my expertise in Docker, Kubernetes, and Cloud Infrastructure.
-⚡ Fun Fact: When I'm not debugging or optimizing queries, I enjoy exploring world cinema and storytelling, which often inspires my creative  approach to problem-solving.
+⚡ Fun Fact: When I'm not debugging or optimizing queries, I enjoy exploring world cinema and storytelling, which often inspires my creative approach to problem-solving.
 📫 How to reach me: [https://www.linkedin.com/in/25punam/]
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/25punam)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:25punamgode@gmail.com) 
