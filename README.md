@@ -1,7 +1,11 @@
 
 
 # 💫 About Me:
-I am a Backend Developer passionate about building robust, scalable web applications and exploring DevOps. I enjoy solving complex logic puzzles and transforming ideas into functional code.<br><br>🔭 Current Focus: Building high-performance APIs and real-time systems.<br>🌱 Learning: Deepening my knowledge in Docker and Cloud Infrastructure.<br>⚡ Fun Fact: I find my "magical escape" in K-Dramas and stories about mystical worlds when I'm not debugging.<br>📫 How to reach me: [https://www.linkedin.com/in/25punam/]
+I am a Backend Developer passionate about building robust, scalable web applications and exploring DevOps. I thrive on solving complex logic puzzles and transforming architectural ideas into efficient, functional code.
+🔭 Current Focus: Engineering high-performance APIs and real-time data systems.
+🌱 Learning: Deepening my expertise in Docker, Kubernetes, and Cloud Infrastructure.
+⚡ Fun Fact: When I'm not debugging or optimizing queries, I enjoy exploring world cinema and storytelling, which often inspires my creative  approach to problem-solving.
+📫 How to reach me: [https://www.linkedin.com/in/25punam/]
 
 
 ## 🌐 Socials:
