@@ -1,8 +1,7 @@
 
 
 # 💫 About Me:
-I am a Backend Developer passionate about building robust, scalable web applications and exploring DevOps. I thrive on solving complex logic puzzles and transforming architectural ideas into efficient, functional code.<br><br>
-
+I am a Backend Developer passionate about building robust, scalable web applications and exploring DevOps. I thrive on solving complex logic puzzles and transforming architectural ideas into efficient, functional code.<br>
 <br>🔭 Current Focus: Engineering high-performance APIs and real-time data systems.
 <br>🌱 Learning: Deepening my expertise in Docker, Kubernetes, and Cloud Infrastructure.
 <br>⚡ Fun Fact: When I'm not debugging or optimizing queries, I enjoy exploring world cinema and storytelling, which often inspires my creative approach to problem-solving.
